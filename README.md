@@ -3,16 +3,16 @@
 저는 훌륭한 게임개발자가 되기위해 아름다운 인격과 성품을 가지기위해 먼저 노력하는 사람입니다!
 그 바탕위에 열심히 학업과 포토폴리오를 제작하며 실력을 키워왔습니다.
 
-### 📫 연락처
-### -이름: 이선귀
-### -이메일: sungwi999@gmail.com
-### -포토폴리오 사이트:
-### -유튜브 사이트:
+## 📫 연락처
+# -이름: 이선귀
+# -이메일: sungwi999@gmail.com
+# -포토폴리오 사이트:
+# -유튜브 사이트:
 
 🎮 Unity로 2d, 3D 게임을 만들고 있습니다.
-### 🧑‍💻 사용 기술 스택
+## 🧑‍💻 사용 기술 스택
 
-### ✅ 주로 사용하는 기술
+## ✅ 주로 사용하는 기술
 # 유니티엔진, c#
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="45" height="45"/>
