@@ -2,6 +2,10 @@
 
 🎮 Unity로 3D 게임을 만들고 있어요.  
 💻 주로 사용하는 언어: C#, Shader, Unity Engine
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
